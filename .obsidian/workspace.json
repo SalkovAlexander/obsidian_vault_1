@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Замоденлить.md",
+                "file": "Base/Plasticity.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Замоденлить.md",
+                "file": "Base/Plasticity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Замоденлить.md",
+                "file": "Base/Plasticity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Замоденлить.md"
+                "file": "Base/Plasticity.md"
               }
             }
           },
@@ -197,13 +197,21 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "8e1df3f06665e24b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 205.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,6 +226,11 @@
   },
   "active": "4ab29f0726e09ad1",
   "lastOpenFiles": [
+    "Base/Уроки по анрилу.md",
+    "Base/Plasticity.md",
+    "Base/00 ПД Курс по 3Дшке.md",
+    "Base/00 Работа.md",
+    "Base/Замоденлить.md",
     "obsidian_vault_1/README.md",
     "obsidian_vault_1",
     "Base/00 Unreal.md",
@@ -233,22 +246,17 @@
     "Base/Пойти.md",
     "Base/Изучение trheejs.md",
     "Base/Написать кафедре физры.md",
-    "Base/Замоденлить.md",
     "Base/Houdini.md",
-    "Base/Plasticity.md",
     "Base/Substance painter.md",
     "Daily/2024-01-08.md",
     "Base/Шейдеры Unity.md",
     "Files/Pasted image 20231228215340.png",
     "Base/Туторы 3D.md",
-    "Base/Уроки по анрилу.md",
     "Files/Pasted image 20231228215604.png",
     "Files/Pasted image 20231228215427.png",
     "Base/Презентация английский.md",
     "Files/Pasted image 20231218122757.png",
     "Base/Obsidian.md",
-    "Base/JS Notes.md",
-    "Base/Шо-то по проге на C шарп.md",
     "Files/Real-Time Rendering (2018).pdf",
     "Files/Daniel_Ilett_Building_Quality_Shaders_for_Unity®_Using_Shader_Graphs.epub",
     "Files/The Unity Shaders Bible (Jettelly).pdf",
