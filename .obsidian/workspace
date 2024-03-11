@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "dcb58520f5d84b00",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f1864137f7568bc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Base/Пост в дискорд Lost Delic.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "978d818b8d933566",
+    "type": "split",
+    "children": [
+      {
+        "id": "b45dcdc8647cb766",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f9ba3a9e8c92d3d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0f2e1218f72fa61a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0c659806efe2000",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "767d3a692ca3e535",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e7025d60ee8bf41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ca51dbcccd3c81f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Base/Пост в дискорд Lost Delic.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4f703f212f05e68f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Base/Пост в дискорд Lost Delic.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e04223b5991e069b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "06f3a462cb3d4de1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Base/Пост в дискорд Lost Delic.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "3f1864137f7568bc",
+  "lastOpenFiles": [
+    "Base/00 ПД Курс по 3Дшке.md",
+    "Base/БД.md",
+    "Base/Unreal tutor.md",
+    "Base/Дневник нарушений правила об отказе поиска одобрения из вне.md",
+    "Base/00 Хватит быть славным парнем!.md",
+    "Base/Туторы 3D.md",
+    "Base/Полезное для 3Д.md",
+    "Daily/2022-09-15.md",
+    "Base/Позитивные установки.md",
+    "Base/Посмотреть прочитать.md"
+  ]
+}

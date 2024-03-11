@@ -1,0 +1,268 @@
+{
+  "main": {
+    "id": "dcb58520f5d84b00",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f480898c17e075f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0371cb8a50ce9bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Текстуринг.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30d55465aa94a0a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Замоденлить.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ae834c8d51973b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Текстуринг.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8a3a273ad9279f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Plasticity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ab29f0726e09ad1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Замоденлить.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "978d818b8d933566",
+    "type": "split",
+    "children": [
+      {
+        "id": "b45dcdc8647cb766",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f9ba3a9e8c92d3d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0f2e1218f72fa61a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "sha",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0c659806efe2000",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "40597b14281b4854",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 309.5
+  },
+  "right": {
+    "id": "767d3a692ca3e535",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e7025d60ee8bf41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ca51dbcccd3c81f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Base/Замоденлить.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4f703f212f05e68f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Base/Замоденлить.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e04223b5991e069b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "06f3a462cb3d4de1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Base/Замоденлить.md"
+              }
+            }
+          },
+          {
+            "id": "c6e8676d37cb59d9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 228.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "4ab29f0726e09ad1",
+  "lastOpenFiles": [
+    "obsidian_vault_1/README.md",
+    "obsidian_vault_1",
+    "Base/00 Unreal.md",
+    "Base/Диздок.md",
+    "Daily/6 семестр.md",
+    "Base/Текстуринг.md",
+    "Base/Untitled.md",
+    "Base/Список дел.md",
+    "Base/Привычки, изменяющие жизнь.md",
+    "Base/Пост в дискорд Lost Delic.md",
+    "Base/Посмотреть прочитать.md",
+    "Base/Полезное для 3Д.md",
+    "Base/Пойти.md",
+    "Base/Изучение trheejs.md",
+    "Base/Написать кафедре физры.md",
+    "Base/Замоденлить.md",
+    "Base/Houdini.md",
+    "Base/Plasticity.md",
+    "Base/Substance painter.md",
+    "Daily/2024-01-08.md",
+    "Base/Шейдеры Unity.md",
+    "Files/Pasted image 20231228215340.png",
+    "Base/Туторы 3D.md",
+    "Base/Уроки по анрилу.md",
+    "Files/Pasted image 20231228215604.png",
+    "Files/Pasted image 20231228215427.png",
+    "Base/Презентация английский.md",
+    "Files/Pasted image 20231218122757.png",
+    "Base/Obsidian.md",
+    "Base/JS Notes.md",
+    "Base/Шо-то по проге на C шарп.md",
+    "Files/Real-Time Rendering (2018).pdf",
+    "Files/Daniel_Ilett_Building_Quality_Shaders_for_Unity®_Using_Shader_Graphs.epub",
+    "Files/The Unity Shaders Bible (Jettelly).pdf",
+    "Files/Unity 2021 Shaders and Effects 1.pdf",
+    "Files/Unity 2021 Shaders and Effects.pdf",
+    "Untitled.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Files/Pasted image 20231022221056.png",
+    "Files/Pasted image 20231022220122.png",
+    "Files/Pasted image 20231022213834.png",
+    "Files/Pasted image 20231022213823.png",
+    "Files/Pasted image 20231022213820.png",
+    "Files/Pasted image 20231022212858.png"
+  ]
+}
