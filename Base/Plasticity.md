@@ -215,7 +215,7 @@ s+f - скейлить относительно
 | [Delete Redundant Topology](https://doc.plasticity.xyz/solid/delete-redundant-topology)                     |                             | Remove excess Edges.                                                                                            |
 | [Extend Edge](https://doc.plasticity.xyz/solid/extend-edge)                                                 |                             | Extend Edges.                                                                                                   |
 |                                                                                                             |                             |                                                                                                                 |
-Готово
+Готово eeeee
 ***
 ###### Zero-Links
 -
