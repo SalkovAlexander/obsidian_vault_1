@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Замоденлить.md",
+                "file": "Base/Образование СССР.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a598644ac3d203d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/декабрьское вооруженное восстание.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aa0a5ddba783a558",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/октябрьский манифест.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sha",
+                "query": "tag:#учеба",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -122,7 +146,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -142,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Plasticity.md",
+                "file": "Base/Образование СССР.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Plasticity.md",
+                "file": "Base/Образование СССР.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Plasticity.md"
+                "file": "Base/Образование СССР.md"
               }
             }
           },
@@ -207,7 +232,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -224,39 +249,39 @@
       "random-note:Open random note": false
     }
   },
-  "active": "4ab29f0726e09ad1",
+  "active": "30d55465aa94a0a1",
   "lastOpenFiles": [
-    "Base/Уроки по анрилу.md",
+    "Base/октябрьский манифест.md",
+    "Base/Образование СССР.md",
+    "Base/декабрьское вооруженное восстание.md",
+    "Base/Текстуринг.md",
+    "Base/Пойти.md",
+    "Base/Полезное для 3Д.md",
+    "Base/Диздок.md",
+    "Base/Замоденлить.md",
     "Base/Plasticity.md",
+    "Base/Кровавое воскресенье.md",
+    "Base/Уроки по анрилу.md",
     "Base/00 ПД Курс по 3Дшке.md",
     "Base/00 Работа.md",
-    "Base/Замоденлить.md",
     "obsidian_vault_1/README.md",
     "obsidian_vault_1",
     "Base/00 Unreal.md",
-    "Base/Диздок.md",
     "Daily/6 семестр.md",
-    "Base/Текстуринг.md",
     "Base/Untitled.md",
     "Base/Список дел.md",
     "Base/Привычки, изменяющие жизнь.md",
     "Base/Пост в дискорд Lost Delic.md",
     "Base/Посмотреть прочитать.md",
-    "Base/Полезное для 3Д.md",
-    "Base/Пойти.md",
     "Base/Изучение trheejs.md",
     "Base/Написать кафедре физры.md",
     "Base/Houdini.md",
     "Base/Substance painter.md",
     "Daily/2024-01-08.md",
-    "Base/Шейдеры Unity.md",
     "Files/Pasted image 20231228215340.png",
-    "Base/Туторы 3D.md",
     "Files/Pasted image 20231228215604.png",
     "Files/Pasted image 20231228215427.png",
-    "Base/Презентация английский.md",
     "Files/Pasted image 20231218122757.png",
-    "Base/Obsidian.md",
     "Files/Real-Time Rendering (2018).pdf",
     "Files/Daniel_Ilett_Building_Quality_Shaders_for_Unity®_Using_Shader_Graphs.epub",
     "Files/The Unity Shaders Bible (Jettelly).pdf",
