@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "977a1d6ae90494eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bf50468487c1c4eb",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Образование СССР.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Образование СССР.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Образование СССР.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -255,7 +267,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -272,8 +285,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "30d55465aa94a0a1",
+  "active": "977a1d6ae90494eb",
   "lastOpenFiles": [
+    "Base/Образование СССР.md",
+    "conflict-files-obsidian-git.md",
     "Files/Pasted image 20240324204821.png",
     "Files/Pasted image 20240324204720.png",
     "Files/Декларация_и_договор_об_образовании_СССР.pdf",
@@ -285,8 +300,6 @@
     "Files/Pasted image 20240324202909.png",
     "Files/Pasted image 20240324202827.png",
     "Files/Pasted image 20240324202812.png",
-    "Files/Pasted image 20240324202723.png",
-    "Base/Образование СССР.md",
     "Base/Текстуринг.md",
     "Base/Временное правительство.md",
     "Base/временного правительства.md",
