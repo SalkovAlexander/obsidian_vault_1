@@ -11,8 +11,12 @@
             "id": "1b48da33803a40d0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Base/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Base/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Base/Untitled 1.md"
+              }
             }
           },
           {
@@ -167,8 +175,14 @@
       "random-note:Open random note": false
     }
   },
-  "active": "6f9ba3a9e8c92d3d",
+  "active": "1b48da33803a40d0",
   "lastOpenFiles": [
+    "Files/Pasted image 20250512222032.png",
+    "Files/Pasted image 20250512220358.png",
+    "Files/Pasted image 20250512215816.png",
+    "Files/Pasted image 20250512214239.png",
+    "Files/Pasted image 20250512214017.png",
+    "Base/Untitled 1.md",
     "Base/октябрьский манифест.md",
     "Base/Plasticity.md",
     "Base/Текстуринг.md",
@@ -180,10 +194,6 @@
     "Files/Pasted image 20240324203156.png",
     "Files/Pasted image 20240324203039.png",
     "Files/Pasted image 20240324202957.png",
-    "Files/Pasted image 20240324202948.png",
-    "Files/Pasted image 20240324202909.png",
-    "Files/Pasted image 20240324202827.png",
-    "Files/Pasted image 20240324202812.png",
     "Base/Полезное для 3Д.md",
     "Base/00 3D.md",
     "Base/00 Daily.md",
@@ -205,8 +215,6 @@
     "Base/00 Работа.md",
     "obsidian_vault_1/README.md",
     "obsidian_vault_1",
-    "Base/00 Unreal.md",
-    "Daily/6 семестр.md",
     "Files/Real-Time Rendering (2018).pdf",
     "Files/Daniel_Ilett_Building_Quality_Shaders_for_Unity®_Using_Shader_Graphs.epub",
     "Files/The Unity Shaders Bible (Jettelly).pdf",
