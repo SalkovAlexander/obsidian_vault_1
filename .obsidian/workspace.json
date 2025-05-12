@@ -4,155 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4f480898c17e075f",
+        "id": "2c21a6ade23b0daf",
         "type": "tabs",
         "children": [
           {
-            "id": "b0371cb8a50ce9bb",
+            "id": "1b48da33803a40d0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Текстуринг.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf50468487c1c4eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Петроградский Совет.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c3d6810d3adf638",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Houdini.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2f04519b64a4913",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Написать кафедре физры.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ddb2884504a6aed6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/IL3 reuse pipeline.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "853ea7c5c2ceb3af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Plasticity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "671e914f938f00a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Петроградский Совет.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a598644ac3d203d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/декабрьское вооруженное восстание.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ae834c8d51973b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Текстуринг.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8a3a273ad9279f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Plasticity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ab29f0726e09ad1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Plasticity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa0a5ddba783a558",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/октябрьский манифест.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Plasticity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Plasticity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Base/Plasticity.md"
-              }
+              "state": {}
             }
           },
           {
@@ -291,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -308,8 +167,23 @@
       "random-note:Open random note": false
     }
   },
-  "active": "853ea7c5c2ceb3af",
+  "active": "6f9ba3a9e8c92d3d",
   "lastOpenFiles": [
+    "Base/октябрьский манифест.md",
+    "Base/Plasticity.md",
+    "Base/Текстуринг.md",
+    "conflict-files-obsidian-git.md",
+    "Files/Декларация_и_договор_об_образовании_СССР.pdf",
+    "Files/Pasted image 20240324204821.png",
+    "Files/Pasted image 20240324204720.png",
+    "Files/Pasted image 20240324204405.png",
+    "Files/Pasted image 20240324203156.png",
+    "Files/Pasted image 20240324203039.png",
+    "Files/Pasted image 20240324202957.png",
+    "Files/Pasted image 20240324202948.png",
+    "Files/Pasted image 20240324202909.png",
+    "Files/Pasted image 20240324202827.png",
+    "Files/Pasted image 20240324202812.png",
     "Base/Полезное для 3Д.md",
     "Base/00 3D.md",
     "Base/00 Daily.md",
@@ -321,14 +195,10 @@
     "Base/Пост в дискорд Lost Delic.md",
     "Base/Образование СССР.md",
     "Base/Временное правительство.md",
-    "Base/Текстуринг.md",
-    "Files/Pasted image 20240319013431.png",
     "Base/временного правительства.md",
-    "Base/октябрьский манифест.md",
     "Base/декабрьское вооруженное восстание.md",
     "Base/Пойти.md",
     "Base/Диздок.md",
-    "Base/Plasticity.md",
     "Base/Кровавое воскресенье.md",
     "Base/Уроки по анрилу.md",
     "Base/00 ПД Курс по 3Дшке.md",
@@ -337,11 +207,6 @@
     "obsidian_vault_1",
     "Base/00 Unreal.md",
     "Daily/6 семестр.md",
-    "Base/Untitled.md",
-    "Files/Pasted image 20231228215340.png",
-    "Files/Pasted image 20231228215604.png",
-    "Files/Pasted image 20231228215427.png",
-    "Files/Pasted image 20231218122757.png",
     "Files/Real-Time Rendering (2018).pdf",
     "Files/Daniel_Ilett_Building_Quality_Shaders_for_Unity®_Using_Shader_Graphs.epub",
     "Files/The Unity Shaders Bible (Jettelly).pdf",
@@ -350,11 +215,6 @@
     "Untitled.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Files/Pasted image 20231022221056.png",
-    "Files/Pasted image 20231022220122.png",
-    "Files/Pasted image 20231022213834.png",
-    "Files/Pasted image 20231022213823.png",
-    "Files/Pasted image 20231022213820.png"
+    "Untitled 1.canvas"
   ]
 }
