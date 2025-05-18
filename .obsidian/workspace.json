@@ -4,119 +4,93 @@
     "type": "split",
     "children": [
       {
-        "id": "4f480898c17e075f",
+        "id": "0ea1c6473ec02d47",
         "type": "tabs",
         "children": [
           {
-            "id": "b0371cb8a50ce9bb",
+            "id": "86200fe8602f4eb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Текстуринг.md",
+                "file": "Base/Houdini course.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "30d55465aa94a0a1",
+            "id": "a683878fb370bb67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Образование СССР.md",
+                "file": "Base/Houdini resources.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bf50468487c1c4eb",
+            "id": "cf093ed42767a36b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
+            "id": "b899275055820e31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Петроградский Совет.md",
+                "file": "Base/threejs-journey.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4c3d6810d3adf638",
+            "id": "05ce4bd4caebdf5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Временное правительство.md",
+                "file": "Base/threejs-journey.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a598644ac3d203d0",
+            "id": "574a1c2c96347842",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/декабрьское вооруженное восстание.md",
+                "file": "Base/threejs-journey lessons notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4ae834c8d51973b4",
+            "id": "b987c0bd35dd726f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Текстуринг.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8a3a273ad9279f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Plasticity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ab29f0726e09ad1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Plasticity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa0a5ddba783a558",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/октябрьский манифест.md",
+                "file": "Base/Houdini интересное.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -145,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#учеба",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -170,8 +144,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Образование СССР.md",
+                "file": "Base/threejs-journey lessons notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Образование СССР.md",
+                "file": "Base/threejs-journey lessons notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Образование СССР.md"
+                "file": "Base/threejs-journey lessons notes.md"
               }
             }
           },
@@ -256,7 +229,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -273,46 +246,46 @@
       "random-note:Open random note": false
     }
   },
-  "active": "30d55465aa94a0a1",
+  "active": "574a1c2c96347842",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Base/Образование СССР.md",
-    "Files/Pasted image 20240324204821.png",
-    "Files/Pasted image 20240324204720.png",
-    "Files/Декларация_и_договор_об_образовании_СССР.pdf",
-    "Files/Pasted image 20240324204405.png",
-    "Files/Pasted image 20240324203156.png",
-    "Files/Pasted image 20240324203039.png",
-    "Files/Pasted image 20240324202957.png",
-    "Files/Pasted image 20240324202948.png",
-    "Files/Pasted image 20240324202909.png",
-    "Files/Pasted image 20240324202827.png",
-    "Files/Pasted image 20240324202812.png",
-    "Base/Текстуринг.md",
-    "Base/Временное правительство.md",
-    "Base/временного правительства.md",
-    "Base/Петроградский Совет.md",
+    "Base/threejs-journey.md",
+    "Base/threejs-journey lessons notes.md",
+    "Base/00 threejs-journey.md",
+    "Base/00 JS.md",
+    "Base/00 Важное.md",
+    "Base/Houdini course.md",
+    "Base/Houdini resources.md",
+    "Files/Pasted image 20240710005418.png",
+    "Files/Pasted image 20240710004350.png",
+    "Files/Pasted image 20240710004024.png",
+    "Files/Pasted image 20240710003550.png",
+    "Files/Pasted image 20240710003529.png",
+    "Files/Pasted image 20240710001904.png",
+    "Files/Pasted image 20240710001852.png",
+    "Files/Pasted image 20240710000950.png",
+    "Files/Pasted image 20240710000926.png",
+    "Files/Pasted image 20240709234714.png",
+    "Base/Houdini интересное.md",
+    "Daily/2024-06-26.md",
     "Base/октябрьский манифест.md",
+    "Base/Plasticity.md",
+    "Base/Текстуринг.md",
     "Base/декабрьское вооруженное восстание.md",
-    "Base/Пойти.md",
+    "Base/Временное правительство.md",
+    "Base/Петроградский Совет.md",
+    "Base/Уроки по анрилу.md",
+    "Base/Houdini.md",
+    "Base/Студенческий спорт и спортивный клуб в современных условиях развития вуза..md",
+    "Base/Образование СССР.md",
     "Base/Полезное для 3Д.md",
     "Base/Диздок.md",
+    "conflict-files-obsidian-git.md",
+    "Files/Декларация_и_договор_об_образовании_СССР.pdf",
+    "Base/временного правительства.md",
+    "Base/Пойти.md",
     "Base/Замоденлить.md",
-    "Base/Plasticity.md",
     "Base/Кровавое воскресенье.md",
-    "Base/Уроки по анрилу.md",
-    "Base/00 ПД Курс по 3Дшке.md",
-    "Base/00 Работа.md",
-    "obsidian_vault_1/README.md",
     "obsidian_vault_1",
-    "Base/00 Unreal.md",
-    "Daily/6 семестр.md",
-    "Base/Untitled.md",
-    "Base/Список дел.md",
-    "Base/Привычки, изменяющие жизнь.md",
-    "Base/Пост в дискорд Lost Delic.md",
-    "Base/Посмотреть прочитать.md",
-    "Base/Изучение trheejs.md",
     "Files/Real-Time Rendering (2018).pdf",
     "Files/Daniel_Ilett_Building_Quality_Shaders_for_Unity®_Using_Shader_Graphs.epub",
     "Files/The Unity Shaders Bible (Jettelly).pdf",
