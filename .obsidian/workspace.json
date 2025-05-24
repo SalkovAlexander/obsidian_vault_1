@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/threejs-journey lessons notes.md",
+                "file": "Base/Текст диплома.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/threejs-journey lessons notes.md",
+                "file": "Base/Текст диплома.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/threejs-journey lessons notes.md",
+                "file": "Base/Текст диплома.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/threejs-journey lessons notes.md"
+                "file": "Base/Текст диплома.md"
               }
             }
           },
@@ -248,15 +248,20 @@
   },
   "active": "574a1c2c96347842",
   "lastOpenFiles": [
+    "Files/Pasted image 20250518155536.png",
+    "Files/Pasted image 20250518155314.png",
+    "Files/Pasted image 20250518154236.png",
+    "Files/Screenshot_1.translated.jpg",
+    "Base/Untitled.md",
+    "Base/Текст диплома.md",
+    "Base/threejs-journey lessons notes.md",
     "Files/Pasted image 20250512222032.png",
     "Files/Pasted image 20250512220358.png",
     "Files/Pasted image 20250512215816.png",
     "Files/Pasted image 20250512214239.png",
     "Files/Pasted image 20250512214017.png",
-    "Base/Untitled 1.md",
     "Base/IL3 reuse pipeline.md",
     "Base/threejs-journey.md",
-    "Base/threejs-journey lessons notes.md",
     "Base/00 threejs-journey.md",
     "Base/00 JS.md",
     "Base/00 Важное.md",
@@ -264,10 +269,6 @@
     "Base/Houdini resources.md",
     "Files/Pasted image 20240710005418.png",
     "Files/Pasted image 20240710004350.png",
-    "Files/Pasted image 20240710004024.png",
-    "Files/Pasted image 20240710003550.png",
-    "Files/Pasted image 20240710003529.png",
-    "Files/Pasted image 20240710001904.png",
     "Base/Houdini интересное.md",
     "Daily/2024-06-26.md",
     "Base/октябрьский манифест.md",
@@ -284,7 +285,6 @@
     "Base/Диздок.md",
     "conflict-files-obsidian-git.md",
     "Files/Декларация_и_договор_об_образовании_СССР.pdf",
-    "Base/временного правительства.md",
     "obsidian_vault_1",
     "Files/Real-Time Rendering (2018).pdf",
     "Files/Daniel_Ilett_Building_Quality_Shaders_for_Unity®_Using_Shader_Graphs.epub",
